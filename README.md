@@ -1,5 +1,5 @@
 # c1CodeChallenge-weather-frontend
-A front end challenge
+A full stack challenge
 
 # The Ultimate Weather Dashboard
  
